@@ -1,6 +1,7 @@
 First Session about Introduction to GIT
 
 
+<<<<<<< HEAD
 
 
 
@@ -8,3 +9,6 @@ First Session about Introduction to GIT
 
 
 This file is to be updated in the local environment but the changes cannot be reflected on the site automatically
+=======
+The files are created by Person 1 and "Person 2 writing this text right now"
+>>>>>>> ef095e5f4f9efb3e08d592024ab877f5ed18df44
