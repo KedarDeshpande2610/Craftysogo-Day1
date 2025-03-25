@@ -1,1 +1,4 @@
 First Session about Introduction to GIT
+
+
+The files are created by Person 1 and "Person 2 writing this text right now"
