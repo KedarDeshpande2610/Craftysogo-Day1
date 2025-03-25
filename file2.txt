@@ -1,0 +1,1 @@
+Learnt the first command called as git clone which copies the site workspace to the local environment

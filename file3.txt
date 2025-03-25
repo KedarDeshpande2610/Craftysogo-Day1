@@ -1,0 +1,1 @@
+Moving on to the second command called as "git init" which initializes the workspace to initizlize the workspace on the local system
