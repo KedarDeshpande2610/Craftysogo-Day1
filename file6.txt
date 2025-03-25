@@ -1,0 +1,1 @@
+The branches are connected to the main branch but unless merged the content manually the content of the branches does not appear in the main branch
