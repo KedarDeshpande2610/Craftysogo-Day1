@@ -1,0 +1,1 @@
+There are two more commands namely "git push" and "git pull" which are used to throw updates and get updates respectively
