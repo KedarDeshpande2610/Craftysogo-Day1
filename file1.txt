@@ -1,1 +1,10 @@
 First Session about Introduction to GIT
+
+
+
+
+
+
+
+
+This file is to be updated in the local environment but the changes cannot be reflected on the site automatically
